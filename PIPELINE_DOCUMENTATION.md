@@ -861,7 +861,7 @@ When source data schema changes:
 
 | Version | Date | Changes | Author |
 |---------|------|---------|--------|
-| 1.0 | 2026-06-17 | Initial documentation | Genie Code |
+| 1.0 | 2026-06-17 | Initial documentation | Tatenda Namasasu |
 
 ---
 
